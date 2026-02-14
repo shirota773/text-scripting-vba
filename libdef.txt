@@ -1,6 +1,10 @@
-'main
+'standard modules
 ./main.bas
-
-'modules
 ./modSample.bas
 
+'class modules (example)
+'./classes/MyService.cls
+
+'user forms (example)
+'./forms/MyForm.frm
+' Note: keep MyForm.frx beside MyForm.frm
